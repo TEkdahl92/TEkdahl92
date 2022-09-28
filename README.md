@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **troypekdahl@gmail.com**
 
-- ⚡ Fun fact **I have 1 dog and 2 cats :)**
+- ⚡ Fun fact **I have 1 dog, 2 cats, 2 snakes and 1 wife :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
