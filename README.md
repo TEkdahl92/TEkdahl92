@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Web Developer || Software Engineer
 ---------------------------------------------
 
-Full Stack Web Developer using my background in customer service to build a more intuitive user experience on the web. Recently earned a certificate in full stack development from the University of Texas at Austin, with newly developed skills in JavaScript, Node.js, React.js, MongoDb, Express.js and responsive web design. Known as a fun and innovative problem solver passionate about developing apps, with a focus on mobile-first design and development. With each project, my aim is to best engage my audience for an impactful user experience. I applied my knowledge of the MERN stack development in a recent project. I worked on a team of five to develop a multi-page MERN app that provides users with a more fun and enjoyable experience while searching for their favorite books or if they want to join a book club. I’m excited to leverage my skills as part of a fast-paced, quality-driven team to build better experiences on the web.
+Highly motivated and dedicated beginner programmer seeking a challenging entry-level position to apply my technical skills and contribute to a dynamic software development team. Eager to learn and grow in a professional environment.
 
 * 🌍  I'm based in Killeen, Texas
 * 🖥️  See my portfolio at [React Portfolio](http://tekdahl92.github.io/React-Portfolio/)
